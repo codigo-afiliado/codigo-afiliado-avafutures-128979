@@ -1,45 +1,45 @@
 <!--
-.   _    _ _    ___ _   _  ___  _   _ _   _ ___ ____  _____ ____
-   / \  | | |  |_ _| \ | |/ _ \| | | | \ | |_ _/ ___|| ____|  _ \
-  / _ \ | | |   | ||  \| | | | | | | |  \| || |\___ \|  _| | |_) |
- / ___ \| | |___| || |\  | |_| | |_| | |\  || | ___) | |___|  _ <
-/_/   \_\_|_____|___|_| \_|\___/ \___/|_| \_|___|____/|_____|_| \_\
-   ____  _____ ___  ____  _   _ _____ ____  _____
-  / ___|| ____/ _ \|  _ \| | | | ____/ ___|| ____|
-  \___ \|  _|| | | | |_) | |_| |  _| \___ \|  _|
-   ___) | |__| |_| |  __/|  _  | |___ ___) | |___
-  |____/|_____\___/|_|   |_| |_|_____|____/|_____|
+. _ _ _ ___ _ _ ___ _ _ _ _ ___ ____ _____ ____
+ / \ | | | |_ _| \ | |/ _ \| | | | \ | |_ _/ ___|| ____| _ \
+ / _ \ | | | | || \| | | | | | | | \| || |\___ \| _| | |_) |
+ / ___ \| | |___| || |\ | |_| | |_| | |\ || | ___) | |___| _ <
+/_/ \_\_|_____|___|_| \_|\___/ \___/|_| \_|___|____/|_____|_| \_\
+ ____ _____ ___ ____ _ _ _____ ____ _____
+ / ___|| ____/ _ \| _ \| | | | ____/ ___|| ____|
+ \___ \| _|| | | | |_) | |_| | _| \___ \| _|
+ ___) | |__| |_| | __/| _ | |___ ___) | |___
+ |____/|_____\___/|_| |_| |_|_____|____/|_____|
 
-8888888888888888  d88888888888888888888888b
-888888888888888  d8888888888888888888888888b
+8888888888888888 d88888888888888888888888b
+888888888888888 d8888888888888888888888888b
 888888888888888 d888888888888888888888888888b
 8888888888888888888888888888888888888888888888
 8888888888888888888888888888888888888888888888
 Y88888888888888888888888888888888888888888888P
  Y888888888888888888888888888888888888888888P
-  Y88888888888888888888888888888888888888888P
-    "98"""""""""""98"""""""""""98""""""""""9"
-      88888888888888888888888888888888888
-      88888888888888888888888888888888888
-      8888888888888888888888P  98888888888
-      9888888888888888888P"      "98888888
-        "988888888888888          9888888P
-          "98888888888P            988888
-            988888888              d8888P
-             9888888888888888888888888P
-              98888888888888888888888P
-                "988888888888888888P"
-                  98888888888888888
-                  98888888888888888
-                  98888888888888888
-                  98           98"
-                 98"            98
-                98"            98"
-               98"            98"
-              d8"             98d
-             d8"              988
-            888888888888888888888888888888888888888888888888888888888888
-            888888888888888888888888888888888888888888888888888888888888
+ Y88888888888888888888888888888888888888888P
+ "98"""""""""""98"""""""""""98""""""""""9"
+ 88888888888888888888888888888888888
+ 88888888888888888888888888888888888
+ 8888888888888888888888P 98888888888
+ 9888888888888888888P" "98888888
+ "988888888888888 9888888P
+ "98888888888P 988888
+ 988888888 d8888P
+ 9888888888888888888888888P
+ 98888888888888888888888P
+ "988888888888888888P"
+ 98888888888888888
+ 98888888888888888
+ 98888888888888888
+ 98 98"
+ 98" 98
+ 98" 98"
+ 98" 98"
+ d8" 98d
+ d8" 988
+ 888888888888888888888888888888888888888888888888888888888888
+ 888888888888888888888888888888888888888888888888888888888888
 -->
 
 # 🚀 Código de Afiliado AvaFutures · **128979**
@@ -72,7 +72,7 @@ Y88888888888888888888888888888888888888888888P
 
 AvaFutures es la división de futuros de **AvaTrade Group** (fundada en 2006), que opera bajo AT Global Markets LLC, miembro de la **NFA** (National Futures Association) y sujeto a la supervisión de la **CFTC** en Estados Unidos.
 
-Es la opción ideal para traders hispanohablantes que quieren operar **futuros reales** en bolsas estadounidenses —especialmente importante para residentes en Latinoamérica o cualquier país donde los CFDs no estén permitidos o no sean la opción preferida.
+Es la opción ideal para traders hispanohablantes que quieren operar **futuros reales** en bolsas estadounidenses , especialmente importante para residentes en Latinoamérica o cualquier país donde los CFDs no estén permitidos o no sean la opción preferida.
 
 > [!NOTE]
 > **Futuros ≠ CFDs.** Los futuros se negocian en bolsas reguladas (CME, NYMEX), con contratos estandarizados, cámara de compensación central, y margen regulado. Los CFDs son contratos por diferencia con el broker, sin bolsa subyacente. AvaFutures ofrece futuros reales, no CFDs.
@@ -87,18 +87,18 @@ Es la opción ideal para traders hispanohablantes que quieren operar **futuros r
 Al registrarte con el código **128979**, accedes a bonos escalonados según tu depósito inicial. El bono se acredita automáticamente en tu cuenta.
 
 ```
-💰 BONO POR DEPÓSITO — AvaFutures (código 128979)
+💰 BONO POR DEPÓSITO , AvaFutures (código 128979)
 ┌──────────────┬──────────┬──────────────────────────────────────────┐
-│  DEPÓSITO    │  BONO    │  BARRA VISUAL                           │
+│ DEPÓSITO │ BONO │ BARRA VISUAL │
 ├──────────────┼──────────┼──────────────────────────────────────────┤
-│  $1,000      │  $200    │  ████░░░░░░░░░░░░░░░░  20%              │
-│  $2,000      │  $400    │  ████████░░░░░░░░░░░░  20%              │
-│  $3,000      │  $600    │  ████████████░░░░░░░░  20%              │
-│  $5,000      │  $1,000  │  ████████████████████  20%              │
-│  $10,000     │  $2,000  │  ████████████████████  20%              │
-│  $20,000     │  $4,000  │  ████████████████████  20%              │
-│  $50,000     │  $10,000 │  ████████████████████  20% ← MÁXIMO    │
-│  $100,000+   │  —       │  Contactar soporte para bono personalizado
+│ $1,000 │ $200 │ ████░░░░░░░░░░░░░░░░ 20% │
+│ $2,000 │ $400 │ ████████░░░░░░░░░░░░ 20% │
+│ $3,000 │ $600 │ ████████████░░░░░░░░ 20% │
+│ $5,000 │ $1,000 │ ████████████████████ 20% │
+│ $10,000 │ $2,000 │ ████████████████████ 20% │
+│ $20,000 │ $4,000 │ ████████████████████ 20% │
+│ $50,000 │ $10,000 │ ████████████████████ 20% ← MÁXIMO │
+│ $100,000+ │ , │ Contactar soporte para bono personalizado
 └──────────────┴──────────┴──────────────────────────────────────────┘
 ```
 
@@ -146,10 +146,10 @@ AvaFutures permite la integración directa con **TradingView**, la plataforma de
 
 | Característica | Futuros (AvaFutures) | CFDs (brokers típicos) |
 |---|---|---|
-| **Bolsa subyacente** | CME, NYMEX, ICE — reguladas | No hay bolsa, es el broker |
+| **Bolsa subyacente** | CME, NYMEX, ICE , reguladas | No hay bolsa, es el broker |
 | **Cámara de compensación** | Clearing house central (CME Clearing) | No existe |
 | **Contrato** | Estandarizado (tamaño fijo) | Flexible según broker |
-| **Regulación EE.UU.** | NFA/CFTC — supervisión directa | Generalmente no |
+| **Regulación EE.UU.** | NFA/CFTC , supervisión directa | Generalmente no |
 | **Transparencia** | Precios de mercado visibles en bolsa | Precios fijados por broker |
 | **Micro contratos** | Sí (MES, MNQ, MGC, SIL) | No aplica |
 | **Vencimiento** | Fecha fija trimestral | Rolling continuo |
@@ -206,10 +206,10 @@ AvaTrade ofrece CFDs (para clientes fuera de EE.UU.). AvaFutures es su división
 
 | Fecha | Verificación | Estado |
 |---|---|---|
-| Inicio | Repositorio creado — código 128979 | ✅ Activo |
+| Inicio | Repositorio creado , código 128979 | ✅ Activo |
 | Actual | Contenido actualizado con especificaciones y guía completa | ✅ Verificado |
-| — | TradingView integración documentada | ✅ Verificado |
-| — | Bono de bienvenida, términos y FAQ documentados | ✅ Verificado |
+| , | TradingView integración documentada | ✅ Verificado |
+| , | Bono de bienvenida, términos y FAQ documentados | ✅ Verificado |
 
 ---
 
@@ -235,9 +235,9 @@ AvaTrade ofrece CFDs (para clientes fuera de EE.UU.). AvaFutures es su división
 
 ---
 
-*Creado por [Aprende Trading](https://aprende-trading.com) — educación financiera y recursos prácticos para traders hispanohablantes.*
+*Creado por [Aprende Trading](https://aprende-trading.com) , educación financiera y recursos prácticos para traders hispanohablantes.*
 
-*Parte del ecosistema [TradeTheDay](https://tradetheday.com) — brokers, herramientas y análisis para tu operativa diaria.*
+*Parte del ecosistema [TradeTheDay](https://tradetheday.com) , brokers, herramientas y análisis para tu operativa diaria.*
 
 ---
 
