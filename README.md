@@ -87,7 +87,7 @@ Es la opción ideal para traders hispanohablantes que quieren operar **futuros r
 Al registrarte con el código **128979**, accedes a bonos escalonados según tu depósito inicial. El bono se acredita automáticamente en tu cuenta.
 
 ```
-💰 BONO POR DEPÓSITO , AvaFutures (código 128979)
+BONO POR DEPOSITO , AvaFutures (codigo 128979)
 ┌──────────────┬──────────┬──────────────────────────────────────────┐
 │ DEPÓSITO │ BONO │ BARRA VISUAL │
 ├──────────────┼──────────┼──────────────────────────────────────────┤
